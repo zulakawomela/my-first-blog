@@ -1,0 +1,3 @@
+if phone_balance < 5:
+	phone_balance += 10
+	blank_balance -= 10
